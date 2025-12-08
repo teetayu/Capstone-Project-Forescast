@@ -48,7 +48,8 @@
   - Year  
   - Geography Name  
   - Poverty Percent  
-  - Poverty Estimate  
+  - Poverty Estimate
+  - Population Estimate
 
 ข้อมูลนี้ถูกใช้เพื่อวิเคราะห์และสร้างโมเดลแบบ Time-Series และ Classification
 
