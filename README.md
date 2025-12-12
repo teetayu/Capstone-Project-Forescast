@@ -48,8 +48,6 @@
   - Poverty Estimate
   - Population Estimate
 
-ข้อมูลนี้ถูกใช้เพื่อวิเคราะห์และสร้างโมเดลแบบ Time-Series และ Classification
-
 ---
 
 ## 4.  Tools & Technologies
@@ -60,7 +58,7 @@
 | Data Visualization | Matplotlib, Seaborn |
 | Time-Series Model | Facebook Prophet, ARIMA |
 | Machine Learning | Random Forest, XGBoost |
-| Metrics | MAE, RMSE, Confusion Matrix, Accuracy, F1-score |
+| Metrics | MAE, RMSE |
 | Version Control | Git, GitHub |
 
 ---
